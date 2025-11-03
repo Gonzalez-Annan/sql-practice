@@ -1,0 +1,3 @@
+SELECT
+    COUNT(*) AS employee_count
+FROM employees;
